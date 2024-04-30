@@ -16,7 +16,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Facebook Otomatik Takipten Cikma
-// @author       Your Name
+// @author       Deniz KOD
 // @match        *://*.facebook.com/*
 // @grant        none
 // ==/UserScript==
@@ -66,6 +66,15 @@
 
 ![image](https://github.com/DenizKod/Facebook-Otomatik-Takipten-Cikma/assets/168285638/e73c82ce-c667-4d02-9cf8-bc4c96f841e6)
 
+### iŞLEME BAŞLAMADAN ÖNCE OKU !
+
+<p>- Eğer takip ettiğiniz kişiler listesinde kişilerin üstünde "İsteği İptal Et" yazıyorsa onlar 10 saniye'de toplu iptal etme koduda mevcut</p>
+
+### TOPLU İSTEĞİ İPTAL ETME KODU : https://github.com/DenizKod/Gonderilen-ark-isteklerini-toplu-iptal-etme
+
+![image](https://github.com/DenizKod/Facebook-Otomatik-Takipten-Cikma/assets/168285638/37b29ae5-e6cd-4513-b6d8-ab3491f45b25)
+
+### TAKİPTEN ÇIKMA İŞLEMİNE DEVAM EDELİM !
 
 <p>- Öncelikle işlem yarı otomatik olarak çalışıyor</p>
 <p>- F2 tuşu başlatır F4 tuşu işlemi durdurur</p>
