@@ -68,16 +68,16 @@
 
 ### iŞLEME BAŞLAMADAN ÖNCE OKU !
 
-<p>- Eğer takip ettiğiniz kişiler listesinde kişilerin üstünde "İsteği İptal Et" yazıyorsa onlar 10 saniye'de toplu iptal etme koduda mevcut</p>
+<p>Eğer takip ettiğiniz kişiler listesinde kişilerin üstünde "İsteği İptal Et" yazıyorsa o kişiler için ayrı bir süreç olacak.
 
-### TOPLU İSTEĞİ İPTAL ETME KODU : https://github.com/DenizKod/Gonderilen-ark-isteklerini-toplu-iptal-etme
+#### TOPLU "İSTEĞİ İPTAL ET" KODU : https://github.com/DenizKod/Gonderilen-ark-isteklerini-toplu-iptal-etme
 
 ![image](https://github.com/DenizKod/Facebook-Otomatik-Takipten-Cikma/assets/168285638/37b29ae5-e6cd-4513-b6d8-ab3491f45b25)
 
-### TAKİPTEN ÇIKMA İŞLEMİNE DEVAM EDELİM !
+#### TAKİPTEN ÇIKMA İŞLEMİNE DEVAM EDELİM !
 
 <p>- Öncelikle işlem yarı otomatik olarak çalışıyor</p>
-<p>- F2 tuşu başlatır F4 tuşu işlemi durdurur</p>
+<p>- F2 tuşu başlatır / F4 tuşu işlemi durdurur</p>
 <p>- İşlemi başlatığınızda kişilerin üstüne mouse tuttuğunuzda Profil kartı açılır ve Takiptesin butonu gözükür. Bot o anda hızlı bir şekilde "Takiptesin" butonuna tıklar ve "Takipten çıkar" yapar</p>
 
 ![image](https://github.com/DenizKod/Facebook-Otomatik-Takipten-Cikma/assets/168285638/0204aa15-4a02-4b63-a81f-e8e128b7f6d5)
